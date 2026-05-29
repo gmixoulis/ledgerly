@@ -1,4 +1,4 @@
-# Company Service
+# Ledgerly
 
 A REST microservice for managing companies, built in Go.
 

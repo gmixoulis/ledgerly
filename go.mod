@@ -1,4 +1,4 @@
-module github.com/gmixoulis/company-service
+module github.com/gmixoulis/ledgerly
 
 go 1.22
 

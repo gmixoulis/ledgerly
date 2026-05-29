@@ -8,7 +8,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"github.com/gmixoulis/company-service/internal/events"
+	"github.com/gmixoulis/ledgerly/internal/events"
 )
 
 // fakeRepo is an in-memory Repository implementation for unit tests.

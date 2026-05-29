@@ -11,11 +11,11 @@ import (
 
 	"github.com/jackc/pgx/v5/pgxpool"
 
-	"github.com/gmixoulis/company-service/internal/auth"
-	"github.com/gmixoulis/company-service/internal/company"
-	"github.com/gmixoulis/company-service/internal/config"
-	"github.com/gmixoulis/company-service/internal/events"
-	"github.com/gmixoulis/company-service/internal/server"
+	"github.com/gmixoulis/ledgerly/internal/auth"
+	"github.com/gmixoulis/ledgerly/internal/company"
+	"github.com/gmixoulis/ledgerly/internal/config"
+	"github.com/gmixoulis/ledgerly/internal/events"
+	"github.com/gmixoulis/ledgerly/internal/server"
 )
 
 func main() {
