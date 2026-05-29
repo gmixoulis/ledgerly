@@ -1,0 +1,15 @@
+server:
+  port: "8080"
+
+database:
+  dsn: "postgres://postgres:postgres@localhost:5432/companies?sslmode=disable"
+
+jwt:
+  secret: "change-me-in-production-use-a-long-random-string"
+  admin_username: "admin"
+  admin_password: "password"
+
+kafka:
+  brokers:
+    - "localhost:9092"
+  topic: "company-events"
